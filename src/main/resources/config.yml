@@ -1,0 +1,9 @@
+# Do not touch this, if you don't know what you're doing!
+version: 1.0-dev
+
+# To either broadcast it to everyone, only the 'moderation.broadcast' or no one.
+# You can set: everyone, permission, none
+# default: permission
+broadcast-moderation: permission
+
+

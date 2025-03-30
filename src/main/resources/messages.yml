@@ -1,0 +1,9 @@
+# The {0} and so on are variables.
+prefix: "<dark_gray>[<#ff2e2e>Moderation<dark_gray>] "
+noperm: '<#ff1c1c>You cannot perform this command!'
+ban.usage: '<gray>Correct Usage <dark_gray>→ <#fbecab>/ban <player> <reason>'
+ban.bypass: '<#ff1c1c>This player cannot be banned!'
+ban.success: '<gray>You have banned <#fbecab>{0} <gray>for <#fbecab>{1}<gray>.'
+ban.kicked: '<red>You have been banned from this Server!\n\n<gray>Reason: <color:#fbecab>{0}\n<gray>Time remaining: <color:#fbecab>{1}'
+ban.broadcast: '<gray>The player <#fbecab>{0} <gray>has been successfully banned for <#fbecab>{1} <gray>from <#fbecab>{2}<gray>.'
+unban.success: '<gray>The player <#fbecab>{0} <gray>has been successfully unbanned.'

@@ -1,0 +1,4 @@
+name: Moderation
+version: ${version}
+main: de.eindaniel.moderation.Main
+api-version: '1.21'
